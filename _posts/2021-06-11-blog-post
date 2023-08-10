@@ -1,1 +1,40 @@
+---
+title: 'Paper Reading 1'
+date: 2021-06-11
+permalink: /posts/2021/06/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+## Gender Peer Effects on Students’ Academic and Noncognitive Outcomes: Evidence and Mechanisms
+Jie Gong, Yi Lu and Hong Song, 2019, _Journal of Human Resources_
+
+**Data**: China Education Panel Survey 2014 (CEPS 2014)
+
+**Clarification**: noncognitive outcome: mental stress, social acclimation and general satisfaction in school.
+
+**Caveats**: No strong support for ability-based spillover from female students.
+
+**Important Concepts**: Heterogeneity, Endogeneity, Identification Problem.
+
+**Methods**: Random assignment, Cross-cohort variation, Balancing test, Clustered standard errors, Hedonic regression
+
+### Main takeaway:
+This paper examines gender peer effects on students’ academic and non-cognitive outcomes 
+- **higher proportion of female peers in class improves students’ test scores and noncognitive outcomes, which include their social acclimation and general satisfaction in school.** ⇒10% increase in the proportion of female classmates raises students’ test scores by 10.2% of a standard deviation and improves their social acclimation and satisfaction in school by 7.7% of a standard deviation.
+- **Heterogeneity of gender peer effects.** ⇒the positive effect on test score is stronger among male students, or when the teacher is male. *(**Heterogeneity**: differences across the units being studied)
+
+
+
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
 
