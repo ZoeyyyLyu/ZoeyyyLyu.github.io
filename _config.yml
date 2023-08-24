@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuojun_Lyu"
+  name             : "Zhuojun Lyu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Your biography for the sidebar"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
