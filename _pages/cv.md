@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Financial Statistics, The Chinese University of Hong Kong University, 2021
+* M.S. in Applied Statistics, New York University University, 2023
 
 Work experience
 ======
@@ -38,18 +37,17 @@ Skills
 
 Publications
 ======
+Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. "Dynamic Temporal and Tactile Cueing: Quantifying Speech Motor Changes and Individual Factors That Contribute to Treatment Gains in Childhood Apraxia of Speech." _Journal of Speech, Language, and Hearing Research_. 1-18. doi: 10.1044/2023_JSLHR-22-00658.
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
+Teaching Assistant, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Ravi Shroff), New York University, Fall 2022
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
