@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download paper here](/files/CV.pdf)
+
+
 Education
 ======
 * B.S. in Financial Statistics, The Chinese University of Hong Kong, 2021
