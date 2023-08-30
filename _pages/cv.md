@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](/files/CV.pdf)
+[Download CV here](/files/CV.pdf)
 
 
 Education
@@ -49,12 +49,9 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. "Dynamic Tempora
 
 Teaching
 ======
-Teaching Assistant, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Ravi Shroff), New York University, Fall 2022
+Teaching Assistant, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff), New York University, Fall 2022
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
