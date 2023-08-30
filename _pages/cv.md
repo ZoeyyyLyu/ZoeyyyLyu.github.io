@@ -50,8 +50,7 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. "Dynamic Tempora
 Teaching
 ======
 
-## New York University
-**Fall 2022** APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff)，Teaching Assistant
+**New York University, Fall 2022** APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff)，Teaching Assistant
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
