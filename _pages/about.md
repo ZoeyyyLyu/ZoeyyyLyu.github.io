@@ -18,12 +18,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Activities
 ======
-Activities
-------
+**July 2023**  I will join Motor Speech Lab, New York University as a Pathologist.
 
-**July 2023** 
 
-I will join Motor Speech Lab as a Pathologist.
 
 Create content & metadata
 ------
