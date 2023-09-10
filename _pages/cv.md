@@ -51,6 +51,6 @@ Working Experience
 ======
 * **FPWA**, New York, US, May 2022 - Dec 2022 \
 <span style='font-family:"Times New Roman"'> 
-Fiscal Policy Research Intern
+_Fiscal Policy Research Intern_
 * **Jones Lang LaSalle**, Shenzhen, China, _Aug 2020 - Sept 2020_ \
-<span style='font-family:"Times New Roman"'> Strategic Consulting Intern
+<span style='font-family:"Times New Roman"'> _Strategic Consulting Intern_
