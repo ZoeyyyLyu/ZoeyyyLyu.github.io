@@ -26,9 +26,7 @@ Research Experience
 
 * **School of Management and Economics**, The Chinese University of Hong Kong \
 <span style='font-family:"Times New Roman"'> _Undergraduate Research Assistant_
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Utilized three methods (Hedonic Regression, Propensity Score Matching, and Nearest Neighbor Matching Method) to document school zone premium embedded in housing prices in Shenzhen.
   
 
 Publications
@@ -49,3 +47,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Working Experience
+======
+* **FPWA**, New York, US, May 2022 - Dec 2022 \
+<span style='font-family:"Times New Roman"'> 
+Fiscal Policy Research Intern
+* **Jones Lang LaSalle**, Shenzhen, China, _Aug 2020 - Sept 2020_ \
+<span style='font-family:"Times New Roman"'> Strategic Consulting Intern
