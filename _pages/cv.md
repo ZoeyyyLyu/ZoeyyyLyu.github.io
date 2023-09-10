@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](/files/CV.pdf)
+[Download Curriculum Vitae here](/files/CV.pdf)
 
 
 Education
@@ -17,9 +17,9 @@ Education
 * B.S. in Financial Statistics, The Chinese University of Hong Kong, 2021
 * M.S. in Applied Statistics, New York University University, 2023
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
+* Motor Speech Lab, New York University, _Mar 2022- Aug 2023_
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -29,14 +29,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -50,7 +42,7 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. "Dynamic Tempora
 Teaching
 ======
 
-**New York University, Fall 2022** APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff), Teaching Assistant
+**New York University**, _Fall 2022_, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff), Teaching Assistant
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
