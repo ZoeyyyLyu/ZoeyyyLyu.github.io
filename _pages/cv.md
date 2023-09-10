@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Curriculum Vitae here](/files/CV.pdf)
+[Download Curriculum Vitae here](/files/CV)
 
 
 Education
@@ -19,12 +19,13 @@ Education
 
 Research Experience
 ======
-* Motor Speech Lab, New York University, _Mar 2022- Aug 2023_
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Motor Speech Lab**, New York University, _Mar 2022- Aug 2023_ \
+ <span style='font-family:"Times New Roman"'> _Research Assistant_
+  * Utilized linear mixed-effect models to evaluate efficacy of DTTC treatment based on data from an ABAB experimental study involving 7 children with severe CAS.
+  
 
-* Fall 2015: Research Assistant
+* **School of Management and Economics**, The Chinese University of Hong Kong \
+<span style='font-family:"Times New Roman"'> _Undergraduate Research Assistant_
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
