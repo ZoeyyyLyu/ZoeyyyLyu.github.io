@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+I am currently employed as a pathologist at the Motor Speech Lab, New York University. I'm also a part-time fiscal policy analyst at FPWA. I recently completed my Master's degree in Applied Statistics at New York University this year. Prior to joining NYU, I obtained my Bachelor's degree in Financial Statistics from The Chinese University of Hong Kong.
 
 Activities
 ======
