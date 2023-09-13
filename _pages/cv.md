@@ -19,10 +19,11 @@ Education
 
 Research Experience
 ======
+* **Motor Speech Lab**, New York University, _July 2023- Present_ \
+<span style='font-family:"Times New Roman"'> _Pathologist_
+
 * **Motor Speech Lab**, New York University, _Mar 2022- May 2023_ \
  <span style='font-family:"Times New Roman"'> _Research Assistant_
-* **Motor Speech Lab**, New York University, _July 2023- Present_ \
- <span style='font-family:"Times New Roman"'> _Pathologist_
   * Utilized linear mixed-effect models to evaluate efficacy of DTTC treatment based on data from an ABAB experimental study involving 7 children with severe CAS.
   
 
