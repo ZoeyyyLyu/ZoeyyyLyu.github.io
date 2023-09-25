@@ -15,6 +15,10 @@ zl4311@nyu.edu
 
 Publications
 ------
-Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. "Dynamic Temporal and Tactile Cueing: Quantifying Speech Motor Changes and Individual Factors That Contribute to Treatment Gains in Childhood Apraxia of Speech." _Journal of Speech, Language, and Hearing Research_. 1-18. doi: 10.1044/2023_JSLHR-22-00658. [[Details]]('/publication/2023-paper-1')
+Dynamic Temporal and Tactile Cueing: Quantifying Speech Motor Changes and Individual Factors That Contribute to Treatment Gains in Childhood Apraxia of Speech.
+Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023.
+ _Journal of Speech, Language, and Hearing Research_. 1-18.
+[[paper]]('https://pubmed.ncbi.nlm.nih.gov/37379241/')
+ [[Details]]('/_publications/2023-paper-1')
 
 
