@@ -1,13 +1,4 @@
 ---
-title: "Visualizations"
-excerpt: "" 
-
-collection: portfolio
----
-
-
-
----
 title: "Visualizations: NYC Citywide Budget and Revenue"
 excerpt: "In this project, I used Tableau to create a visualization depicting the revenue inflow and the adopted budget for New York City over the past decade. The data was scraped from the database of city comptroller's office. 
 
