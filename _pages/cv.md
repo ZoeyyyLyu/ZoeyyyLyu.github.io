@@ -14,8 +14,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Financial Statistics, The Chinese University of Hong Kong, 2021
 * M.S. in Applied Statistics, New York University, 2023
+* B.S. in Financial Statistics, The Chinese University of Hong Kong, 2021
 
 Research Experience
 ======
@@ -34,21 +34,20 @@ Research Experience
 
 Publications
 ======
-Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. "Dynamic Temporal and Tactile Cueing: Quantifying Speech Motor Changes and Individual Factors That Contribute to Treatment Gains in Childhood Apraxia of Speech." _Journal of Speech, Language, and Hearing Research_. 1-18. doi: 10.1044/2023_JSLHR-22-00658.
+**Dynamic Temporal and Tactile Cueing: Quantifying Speech Motor Changes and Individual Factors That Contribute to Treatment Gains in Childhood Apraxia of Speech** \
+Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023.   \
+ _Journal of Speech, Language, and Hearing Research_. 1-18. 
+[[Paper]](https://pubmed.ncbi.nlm.nih.gov/37379241/)
+[[Details]](https://zoeyyylyu.github.io/publication/2023-paper-1)
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 
+ 
 Teaching
 ======
 
-**New York University**, _Fall 2022_, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff), Teaching Assistant
+**New York University**, _Fall 2022_, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff), _Teaching Assistant_
+[[Details]](https://zoeyyylyu.github.io/teaching/2022-Fall-teaching)
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Working Experience
 ======
