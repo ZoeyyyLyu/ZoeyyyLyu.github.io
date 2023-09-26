@@ -20,6 +20,10 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023.   \
 [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37379241/)
 [[Details]](https://zoeyyylyu.github.io/publication/2023-paper-1)
 
+Teaching
+------
+**New York University**, _Fall 2022_, APSTA-GE 2003 Intermediate Quantitative Methods: The General Linear Model (Instructor: Prof. Ravi Shroff), _Teaching Assistant_
+[[Details]](https://zoeyyylyu.github.io/teaching/2022-Fall-teaching)
 
 Contact
 ------
