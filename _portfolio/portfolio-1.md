@@ -1,10 +1,12 @@
 ---
-title: "[Visualizations] NYC Citywide Budget and Revenue"
-excerpt: "In this project, I used Tableau to create a visualization depicting the revenue inflow and the adopted budget for New York City over the past decade. The data was scraped from the database of city comptroller's office. " 
+title: "[Visualizations] NYC Citywide Budget and Revenue tracker"
+excerpt: "This tracker monitors NYC's revenue, and how this flows through to its expenditure on government public services domain. This project aims to provide insight into the fiscal operations of the city government and can be used by advocates, policymakers and individuals who want to learn about the city's funding decisions." 
 #<br/><img src='/images/fund.png'>
 
 collection: portfolio
 ---
+
+[View dashboard here](https://public.tableau.com/app/profile/fpwa/viz/NYCFundsTracker_16952193064350/main2?publish=yes)
 
 This project uses a Tableau interactive dashboard to depict the revenue inflow and the adopted budget for New York City over the past decade. The data was scraped from the database of New York City comptroller's office.
 
