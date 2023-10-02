@@ -1,5 +1,5 @@
 ---
-title: "[Visualizations] NYC Citywide Budget and Revenue tracker"
+title: "[Visualization] NYC Citywide Budget and Revenue Tracker"
 excerpt: "This tracker monitors NYC's revenue, and how this flows through to its expenditure on government public services domain. This project aims to provide insight into the fiscal operations of the city government and can be used by advocates, policymakers and individuals who want to learn about the city's funding decisions." 
 #<br/><img src='/images/fund.png'>
 
