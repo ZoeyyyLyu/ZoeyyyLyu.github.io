@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Applied Statistics, New York University, 2023
+* M.S. in Applied Statistics for social sciences research, New York University, 2023
 * B.S. in Financial Statistics, The Chinese University of Hong Kong, 2021
 
 Research Experience
