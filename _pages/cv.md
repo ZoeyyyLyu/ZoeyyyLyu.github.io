@@ -14,13 +14,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in Applied Statistics for social sciences research, New York University, 2023
+* M.S. in Applied Statistics for Social Sciences Research, New York University, 2023
 * B.S. in Financial Statistics, The Chinese University of Hong Kong, 2021
 
 Research Experience
 ======
 * **Motor Speech Lab**, New York University, _July 2023- Present_ \
-<span style='font-family:"Times New Roman"'> _Pathologist_
+<span style='font-family:"Times New Roman"'> _Associate Research Scientist_
 
 * **Motor Speech Lab**, New York University, _Mar 2022- May 2023_ \
  <span style='font-family:"Times New Roman"'> _Research Assistant_

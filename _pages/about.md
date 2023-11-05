@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a pathologist at [Motor Speech Lab, New York University](https://wp.nyu.edu/grigoslab/). My primary role involves conducting statistical analyses to evaluate the effectiveness of treatments for children with childhood apraxia of speech, utilizing data from clinical experiments. I'm also a part-time fiscal policy analyst at [FPWA](https://www.fpwa.org) doing city budget and reveneu analysis. 
+I am a research scientist at [Motor Speech Lab, New York University](https://wp.nyu.edu/grigoslab/). My primary role involves conducting statistical analyses to evaluate the effectiveness of treatments for children with childhood apraxia of speech, utilizing data from clinical experiments. I'm also a part-time fiscal policy analyst at [FPWA](https://www.fpwa.org) doing data analysis and visulizations for New York City budget and revenue data. 
 
 I completed my Master's degree in Applied Statistics at New York University this year. Prior to joining NYU, I obtained my Bachelor's degree in Financial Statistics from The Chinese University of Hong Kong.
 
