@@ -41,6 +41,9 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023.   \
 [[Details]](https://zoeyyylyu.github.io/publication/2023-paper-1)
 
 
+**Temporal and Tactile Cueing (DTTC) in young children with childhood apraxia of speech: A single case experimental design** \
+Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. _Under review_
+
  
 Teaching
 ======
