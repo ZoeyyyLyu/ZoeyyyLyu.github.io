@@ -1,9 +1,7 @@
 ---
 title: "A Multiple Single-Case Design: Dynamic Temporal and Tactile Cueing (DTTC) Treatment in young children"
-collection: publications
-permalink: /publication/2023-paper-1
 excerpt: "This research examined the relationship between auditory-perceptual ratings of word accuracy and measures of speech motor timing and variability at pre- and post-treatment in children with childhood apraxia of speech (CAS). We found 1) a negative relationship between auditory-perceptual measures of word accuracy and movement variability; 2) participants who demonstrated the poorest performance at treatment onset displayed the most significant gains."
-venue: 'Under Review'
+venue: 'Journal of Speech, Language, and Hearing Research'
 
 ---
 
@@ -19,7 +17,7 @@ Data were collected from seven children with CAS (aged 2-5) who received 6 weeks
 
 **Method**
 
-We used a multidimensional approach to measure speech performance, auditory-perceptual (whole-word accuracy), acoustic (whole-word duration), and kinematic (jaw movement variability) analyses. We used linear mixed-effect model to estimate the effect and a stepwise algorithm was used to find the model with the lowest AIC score. 
+We used a multidimensional approach to measure speech performance, auditory-perceptual (whole-word accuracy), acoustic (whole-word duration), and kinematic (jaw movement variability) analyses. We used linear mixed-effect model to estimate the effect and w stepwise algorithm was used to find the model with the lowest AIC score. 
 
 **Results**
 
