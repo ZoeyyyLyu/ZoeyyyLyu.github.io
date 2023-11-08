@@ -7,10 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a associate research scientist at [Motor Speech Lab, New York University](https://wp.nyu.edu/grigoslab/). My primary role involves conducting statistical analyses to evaluate the effectiveness of treatments for children with childhood apraxia of speech, utilizing data from clinical experiments. I'm also a part-time fiscal policy analyst at [FPWA](https://www.fpwa.org) doing data analysis and visulizations for New York City budget and revenue data. 
+I am an associate research scientist at [Motor Speech Lab, New York University](https://wp.nyu.edu/grigoslab/). My primary role involves conducting statistical analyses to evaluate the effectiveness of treatments for children with childhood apraxia of speech, utilizing data from clinical experiments. I'm also a part-time fiscal policy analyst at [FPWA](https://www.fpwa.org) doing data analysis and visulizations for New York City budget and revenue data. 
 
 I completed my Master's degree in Applied Statistics at New York University this year. Prior to joining NYU, I obtained my Bachelor's degree in Financial Statistics from The Chinese University of Hong Kong.
 
+
+Research interests multi-level modeling, causal inference, data visulizations, and their applications in social sciences contexts, such as policies,
 
 Publications
 ------
@@ -20,7 +22,7 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023.   \
 [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37379241/)
 [[Details]](https://zoeyyylyu.github.io/publication/2023-paper-1)
 
-**Temporal and Tactile Cueing (DTTC) in young children with childhood apraxia of speech: A single case experimental design** \
+**Temporal and Tactile Cueing (DTTC) in Young Children with Childhood Apraxia of Speech: A Single Case Experimental Design** \
 Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. _Under review_
 
 Teaching
