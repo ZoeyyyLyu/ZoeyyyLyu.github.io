@@ -50,8 +50,6 @@ Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023.   \
 [[Paper]](https://pubmed.ncbi.nlm.nih.gov/37379241/)
 [[Details]](https://zoeyyylyu.github.io/publication/2023-paper-1)
 
-* **School of Management and Economics**, The Chinese University of Hong Kong \
-<span style='font-family:"Times New Roman"'> _Undergraduate Research Assistant_
 **Temporal and Tactile Cueing (DTTC) in Young Children with Childhood Apraxia of Speech: A Single Case Experimental Design** \
 Maria I Grigos, Julie Case, Ying Lu, and **Zhuojun Lyu**. 2023. _Under review_
 
@@ -68,7 +66,6 @@ Working Experience
 * **FPWA**, New York, US, May 2022 - Dec 2022 \
 <span style='font-family:"Times New Roman"'> 
 _Fiscal Policy Research Intern_
-
   * Used API to extract around 1 million records of federal and state grants in NYC’s public domain.
   * Constructed an interactive dashboard via Tableau to visualize patterns of NYC budget and revenue in the past decade. [[View]](https://public.tableau.com/app/profile/fpwa/viz/NYCFundsTracker_16952193064350/main2?publish=yes)
   * Applied logistic regression and propensity score matching to assess racial disparities in NYC’s public assistance program.
