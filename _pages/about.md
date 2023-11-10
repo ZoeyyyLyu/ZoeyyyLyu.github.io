@@ -11,8 +11,7 @@ I am an associate research scientist at [Motor Speech Lab, New York University](
 
 I completed my Master's degree in Applied Statistics at New York University this year. Prior to joining NYU, I obtained my Bachelor's degree in Financial Statistics from The Chinese University of Hong Kong.
 
-
-Research interests multi-level modeling, causal inference, data visulizations, and their applications in social sciences contexts, such as policies,
+I have a broad interest in statistical methodology, particularly in multi-level modeling, causal inference, data visualizations, and their applications in social sciences contexts, such as policy and education.
 
 Publications
 ------
