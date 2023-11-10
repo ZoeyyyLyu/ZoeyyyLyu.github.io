@@ -1,7 +1,5 @@
 ---
 title: "A Multiple Single-Case Experimental Design: DTTC Treatment in young children"
-collection: publications
-permalink: /publication/2023-paper-1
 excerpt: "We used a multiple single-case experimental design to examine the use of DTTC in children with childhood apraxia of speech over six weeks of intervention. A linear mixed effect model was used to estimate the change in word accuracy for treated and untreated words across all children from Baseline to Post- treatment and to Maintenance. A Quasi-Poisson regression model was used to estimate mean change and calculate the effect size per individual child and at the word level. "
 venue: 'Under Review'
 
