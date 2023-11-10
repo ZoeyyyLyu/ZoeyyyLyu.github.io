@@ -11,13 +11,13 @@ I am an associate research scientist at [Motor Speech Lab, New York University](
 
 I completed my Master's degree in Applied Statistics in Social Science Research at New York University this year. Prior to joining NYU, I obtained my Bachelor's degree in Financial Statistics from The Chinese University of Hong Kong.
 
-I have a broad interest in statistical methodology, particularly in multi-level modeling, causal inference, data visualizations, and gtheir applications in social sciences contexts, such as policy and education.
+I have a broad interest in statistical methodology, particularly in multi-level modeling, causal inference, data visualizations, and their applications in social sciences contexts, such as policy and education.
 
 Ongoing Project
 ------
 **Unmodeled Interaction in Binary Dependent Variable Model** \
-Collaborator: Prof. Bryant Moy        June 2023- Present	\
-I’m collaborating with Prof. Moy on specifying the unmodeled interaction. We focused on the binary dependent variable model and utilized Neural Networks as a supplementary tool to help to identify the model specification.
+Collaborator: Prof. Bryant Moy,        June 2023- Present	\
+I’m collaborating with Prof. Moy on specifying the unmodeled interaction. We focused on the binary dependent variable model and utilized Neural Networks as a supplementary tool to help to identify the model specification. [[Details]](https://zoeyyylyu.github.io/portfolio/portfolio-1/)
 
 
 Publications
